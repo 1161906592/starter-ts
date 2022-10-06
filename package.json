@@ -5,14 +5,14 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1161906592/starter-ts.git"
+    "url": "git+https://github.com/liuyang0826/starter-ts.git"
   },
   "author": "liuyang.0826<1161906592@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/1161906592/starter-ts/issues"
+    "url": "https://github.com/liuyang0826/starter-ts/issues"
   },
-  "homepage": "https://github.com/1161906592/starter-ts#readme",
+  "homepage": "https://github.com/liuyang0826/starter-ts#readme",
   "keywords": [],
   "sideEffects": false,
   "exports": {
